@@ -54,7 +54,7 @@ These links will be referenced in the description of each video on YouTube for e
 ## 📺 Access the Course
 
 Follow along the full course on YouTube:
-➡️ [YouTube Course Playlist](#) *(Insert the actual link here)*
+➡️ [YouTube Course Playlist]([#](https://www.youtube.com/playlist?list=PLtejknEfy42WngHbvmeIolLtj-8Y0Uogy))
 
 ---
 
